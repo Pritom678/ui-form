@@ -55,6 +55,7 @@ label {
 }
 @media (max-width: 800px){
     html, body{
+        max-width: 800px;
         line-height: 1.5rem;
     }
     .container{
