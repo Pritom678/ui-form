@@ -57,6 +57,12 @@ label {
     html, body{
         max-width: 800px;
         line-height: 1.5rem;
+        display: flex;
+        align-items: center;
+        background-size: contain;
+        margin-left: auto;
+        margin-right: auto;
+        width: fit-content;
     }
     .container{
         margin: 428px;
